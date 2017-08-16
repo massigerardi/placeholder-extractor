@@ -1,4 +1,4 @@
-package net.ambulando.demo.model;
+package net.ambulando.placeholder.model;
 
 import org.junit.Assert;
 import org.junit.Test;

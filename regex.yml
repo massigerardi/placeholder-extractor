@@ -2,11 +2,11 @@ types:
   CURRENCYPAIR:
     name: "CURRENCYPAIR"
     regex: "([A-Z]{3}[/|@]*[A-Z]{3})"
-    type: "net.ambulando.demo.model.CurrencyPair"
+    type: "CurrencyPair"
   CURRENCY:
     name: "CURRENCY"
     regex: "([A-Z]{3})"
-    type: "net.ambulando.demo.model.CurrencyPair"
+    type: "CurrencyPair"
   DOUBLE:
     name: "DOUBLE"
     regex: "([1-9]\\\\d*[\\\\.\\\\d\\\\d+]*)"

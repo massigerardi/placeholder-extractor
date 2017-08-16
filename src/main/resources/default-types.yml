@@ -1,0 +1,10 @@
+double:
+  regex: "([1-9]\\\\d*[\\\\.\\\\d\\\\d+]*)"
+  type: "java.lang.Double"
+string:
+  regex: "([\\\\w-\\\\?\\\\@\\\\#\\\\$\\\\.,:;\\\\'\\\\|/\\\\?<>%]+)"
+  type: "java.lang.String"
+integer:
+  regex: "([1-9]\\\\d*)"
+  type: "java.lang.Integer"
+
